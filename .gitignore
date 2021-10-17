@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
@@ -26,4 +26,4 @@ yarn-error.log*
 .eslintcache
 
 # generate with `build:extension` script
-extension/build/*
+# extension/build/*
